@@ -98,7 +98,6 @@
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" remote="github" revision="ics"/>
   <project path="hardware/atheros/wlan" name="CyanogenMod/android_hardware_atheros_wlan" remote="github" revision="ics"/>
   <project path="hardware/invensense" name="platform/hardware/invensense" revision="425eccbf15c25c32cf073595d25ff50e51570c1b"/>
-  <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" revision="8be8e9a68c96b6cf43c08a58e7ecd7708737c599"/>
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" revision="07ef2f509a362cc6a5825d0d19143dc4bd2474e0"/>
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="github" revision="ics"/>
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" remote="caf" revision="ics_chocolate"/>
@@ -106,5 +105,8 @@
   <project path="hardware/qcom/media" name="platform/hardware/qcom/media" remote="caf" revision="ics_chocolate"/>
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" remote="caf" revision="ics_chocolate"/>
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="github" revision="ics"/>
+  <project path="hardware/qcom/media-legacy" name="cmartinbaughman/android_hardware_qcom_media-legacy" remote="github" revision="cm-10.1" />
+  <project path="hardware/qcom/display-legacy" name="cmartinbaughman/android_hardware_qcom_display-legacy" remote="github" revision="cm-10.1" />
+  <project path="hardware/qcom/audio-caf" name="cmartinbaughman/android_hardware_qcom_audio-car" remote="github" revision="cm-10.1" />
 </manifest>
 
