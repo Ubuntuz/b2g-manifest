@@ -93,7 +93,7 @@
   <project path="system/vold" name="platform/system/vold" revision="3ad9072a5d6f6bda32123b367545649364e3c11d"/>
 
   <!-- Shooteru specific things -->
-  <project path="device/htc/shooteru" name="Ubuntuz/android_device_htc_shooteru" remote="github" revision="ics" />
+  <project path="device/htc/shooteru" name="Ubuntuz/android_device_htc_shooteru" remote="github" revision="b2g" />
   <project path="device/htc/msm8660-common" name="CyanogenMod/android_device_htc_msm8660-common" remote="github" revision="ics"/>
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" remote="github" revision="ics"/>
   <project path="hardware/atheros/wlan" name="CyanogenMod/android_hardware_atheros_wlan" remote="github" revision="ics"/>
